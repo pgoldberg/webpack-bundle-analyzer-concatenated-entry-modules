@@ -2,4 +2,4 @@ export function bar() {
   return 'bar';
 }
 
-console.log("side effect");
+console.log("bar.js");

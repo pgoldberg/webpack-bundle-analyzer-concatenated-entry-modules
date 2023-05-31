@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dep": "workspace:*"
+  },
+  "devDependencies": {
+    "webpack": "5.72.1",
+    "webpack-bundle-analyzer": "4.8.0",
+    "webpack-bundle-analyzer-patched": "file:../../webpack-bundle-analyzer-4.8.0-patched.tgz",
+    "webpack-cli": "4.9.2"
+  }
+}
